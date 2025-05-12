@@ -1,0 +1,6 @@
+POSTGRESQL_ADDON_HOST=bq1bv80gcdmxvuwv1hvq-postgresql.services.clever-cloud.com
+POSTGRESQL_ADDON_DB=bq1bv80gcdmxvuwv1hvq
+POSTGRESQL_ADDON_USER=uvdoxmnrq3affiv2qp5s
+POSTGRESQL_ADDON_PORT=50013
+POSTGRESQL_ADDON_PASSWORD=EkJrZkUY4HMcx0xlva3PLUqYdSseb7
+POSTGRESQL_ADDON_URI=postgresql://uvdoxmnrq3affiv2qp5s:EkJrZkUY4HMcx0xlva3PLUqYdSseb7@bq1bv80gcdmxvuwv1hvq-postgresql.services.clever-cloud.com:5432/bq1bv80gcdmxvuwv1hvq
